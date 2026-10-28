@@ -7,7 +7,7 @@ A hackathon-ready satellite image change detection demo.
 - Node.js 18+
 - VS Code
 
-## 1. Backend setup(using python)
+## 1. Backend setup
 Open a terminal in VS Code: 
 
 ```bash
